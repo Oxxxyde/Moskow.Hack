@@ -1,0 +1,19 @@
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\bin\Debug\FunnyJoke.exe.config
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.Form1.resources
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\bin\Debug\FunnyJoke.exe
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\bin\Debug\FunnyJoke.pdb
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.exe
+d:\documents\visual studio 2013\Projects\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.pdb
+C:\Users\1\Desktop\Jarvis\FunnyJoke\FunnyJoke\bin\Debug\FunnyJoke.exe.config
+C:\Users\1\Desktop\Jarvis\FunnyJoke\FunnyJoke\bin\Debug\FunnyJoke.exe
+C:\Users\1\Desktop\Jarvis\FunnyJoke\FunnyJoke\bin\Debug\FunnyJoke.pdb
+C:\Users\1\Desktop\Jarvis\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Jarvis\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.Form1.resources
+C:\Users\1\Desktop\Jarvis\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.Properties.Resources.resources
+C:\Users\1\Desktop\Jarvis\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Jarvis\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Jarvis\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.exe
+C:\Users\1\Desktop\Jarvis\FunnyJoke\FunnyJoke\obj\Debug\FunnyJoke.pdb
